@@ -9,3 +9,5 @@ and three samples created in Liu et al. The specific files are listed here:
     SampleA.mrt   MSPs in Sample A "the fiducial sample"
     SampleB.mrt   MSPs in Sample B "a list of all the radio MSPs in the Galactic field"
     SampleC.mrt   MSPs in Sample C "a list of all MSPs in globular clusters"
+
+A Python notebook (Show_MSP_Samples.ipynb) is also provided for visualizing the data.
